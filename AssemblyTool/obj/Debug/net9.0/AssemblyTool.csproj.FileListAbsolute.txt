@@ -1,0 +1,14 @@
+E:\Console\AssemblyTool\AssemblyTool\bin\Debug\net9.0\AssemblyTool.exe
+E:\Console\AssemblyTool\AssemblyTool\bin\Debug\net9.0\AssemblyTool.deps.json
+E:\Console\AssemblyTool\AssemblyTool\bin\Debug\net9.0\AssemblyTool.runtimeconfig.json
+E:\Console\AssemblyTool\AssemblyTool\bin\Debug\net9.0\AssemblyTool.dll
+E:\Console\AssemblyTool\AssemblyTool\bin\Debug\net9.0\AssemblyTool.pdb
+E:\Console\AssemblyTool\AssemblyTool\obj\Debug\net9.0\AssemblyTool.GeneratedMSBuildEditorConfig.editorconfig
+E:\Console\AssemblyTool\AssemblyTool\obj\Debug\net9.0\AssemblyTool.AssemblyInfoInputs.cache
+E:\Console\AssemblyTool\AssemblyTool\obj\Debug\net9.0\AssemblyTool.AssemblyInfo.cs
+E:\Console\AssemblyTool\AssemblyTool\obj\Debug\net9.0\AssemblyTool.csproj.CoreCompileInputs.cache
+E:\Console\AssemblyTool\AssemblyTool\obj\Debug\net9.0\AssemblyTool.dll
+E:\Console\AssemblyTool\AssemblyTool\obj\Debug\net9.0\refint\AssemblyTool.dll
+E:\Console\AssemblyTool\AssemblyTool\obj\Debug\net9.0\AssemblyTool.pdb
+E:\Console\AssemblyTool\AssemblyTool\obj\Debug\net9.0\AssemblyTool.genruntimeconfig.cache
+E:\Console\AssemblyTool\AssemblyTool\obj\Debug\net9.0\ref\AssemblyTool.dll
