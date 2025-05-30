@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Text.RegularExpressions;
 
@@ -8,6 +9,7 @@ namespace MewTool.AssemblyVersionCategory
     /// <summary>
     /// 语义化版本工具类
     /// </summary>
+    /// 
     public class MSemanticVersionHelper : IComparable<MSemanticVersionHelper>, IEquatable<MSemanticVersionHelper>
     {
         private static readonly Regex VersionRegex = new Regex(
